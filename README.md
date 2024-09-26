@@ -14,7 +14,8 @@ I aim to deconstruct famous paintings into blocky colors, showing its structure 
 
 ## Part 2: Coding Technique Exploration
 ### Instruction
-The first code example can help me achieve the effect of particles falling randomly.
+The code example can help me achieve the effect of particles falling randomly. 
+Additionally, with each user click, more particles will be generated, giving the user a sense of participation in the creation of the artwork, and allowing them to choose which part of the image to generate first.
 ### Examples
 [Falling Sand](https://gist.github.com/OrangoMango/7dd92d3b41d3ca252ae789c8e8ee9cb0)
 ![Falling Sand](https://thecodingtrain.com/static/c02376386ceeb7a8aeb12225a8667f38/0b494/contribution-1706110961.webp)
